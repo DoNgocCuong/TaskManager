@@ -39,7 +39,16 @@ Chạy backend:
 dotnet run
 Backend mặc định sẽ chạy ở http://localhost:5000
 
-## 4. Cấu hình frontend
+
+## 4. Cấu hình Frontend
+
+
+
+1. Vào folder `frontend`:
+
+```bash
+cd frontend
+
 
 Vào folder frontend:
 
