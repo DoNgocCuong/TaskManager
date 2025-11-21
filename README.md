@@ -37,6 +37,7 @@ Backend chịu trách nhiệm xử lý logic nghiệp vụ và tương tác vớ
 1.  **Di chuyển** vào thư mục `backend`:
     ```bash
     cd backend
+    cd MyWebApi
     ```
 
 2.  **Khôi phục** các dependencies của .NET (nếu cần):
@@ -44,7 +45,7 @@ Backend chịu trách nhiệm xử lý logic nghiệp vụ và tương tác vớ
     dotnet restore
     ```
 
-3.  **Cấu hình** chuỗi kết nối cơ sở dữ liệu trong file cấu hình tương ứng (ví dụ: `appsettings.json`).
+3.  **Cấu hình** chuỗi kết nối cơ sở dữ liệu trong file cấu hình tương ứng (ví dụ: `appsettings.json` để đổi Database,User và password về đúng của bạn).
 
 4.  **Chạy** ứng dụng Backend:
     ```bash
