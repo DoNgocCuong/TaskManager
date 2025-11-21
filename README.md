@@ -19,7 +19,6 @@
 Để chạy và phát triển dự án này, bạn cần có các công cụ sau:
 
 * **.NET 6 hoặc 7 SDK**
-* **Node.js** (Phiên bản >= 16)
 * **npm** (Phiên bản >= 8)
 * **Hệ quản trị cơ sở dữ liệu:** SQL Server / MySQL / PostgreSQL (Tuỳ thuộc vào cấu hình **.NET Backend** của bạn)
 * **Git**
@@ -63,7 +62,7 @@ Frontend là giao diện người dùng để tương tác với các task.
     cd taskmanager-frontend
     ```
 
-2.  **Cài đặt** các dependencies của Node.js:
+2.  **Cài đặt** các dependencies:
     ```bash
     npm install
     ```
