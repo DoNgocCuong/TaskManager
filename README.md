@@ -59,6 +59,7 @@ Frontend là giao diện người dùng để tương tác với các task.
 1.  **Di chuyển** vào thư mục `frontend`:
     ```bash
     cd frontend
+    cd taskmanager-frontend
     ```
 
 2.  **Cài đặt** các dependencies của Node.js:
@@ -68,7 +69,7 @@ Frontend là giao diện người dùng để tương tác với các task.
 
 3.  **Chạy** ứng dụng Frontend:
     ```bash
-    npm start
+    npm run dev
     ```
     > 💡 **Lưu ý:** Frontend mặc định sẽ chạy tại địa chỉ **`http://localhost:3000`** và đã được cấu hình sẵn để kết nối tới Backend tại `http://localhost:5000`.
 
